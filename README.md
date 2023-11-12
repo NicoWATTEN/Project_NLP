@@ -1,5 +1,5 @@
 # Project_NLP Nicolas W
-Project of NLP with 3 big steps
+                                                                                
 
 
 ![STRESS](Stress.png)
