@@ -38,32 +38,34 @@ Stress is a prevalent concern in modern society, impacting individuals' well-bei
 
 ## Dataset - Stress.csv
 
-The Stress.csv dataset contains :  <class 'pandas.core.frame.DataFrame'>
-RangeIndex: 2838 entries, 0 to 2837
+#### The Stress.csv dataset contains :
+**2838 entries, 0 to 2837**
+
 Data columns (total 7 columns):
- #   Column            Non-Null Count  Dtype  
----  ------            --------------  -----  
 
- 0   subreddit         2838 non-null   object 
- 
- 1   post_id           2838 non-null   object 
- 
- 2   sentence_range    2838 non-null   object 
- 
- 3   text              2838 non-null   object 
- 
- 4   label             2838 non-null   int64  
+ ####   Column            Non-Null   Dtype  
+---  ------            ----------- -----  
 
- 5   confidence        2838 non-null   float64
+###### 0   subreddit         2838 object 
  
- 6   social_timestamp  2838 non-null   int64  
+###### 1   post_id           2838 object 
+ 
+###### 2   sentence_range    2838 object 
+ 
+###### 3   text              2838 object 
+ 
+###### 4   label             2838 int64  
+
+###### 5   confidence        2838 float64
+ 
+###### 6   social_timestamp  2838 int64  
  
 
 
 ### Target Variable
 
- X   text              2838 non-null   object 
- y   label             2838 non-null   int64 
+###### X   text              2838 non-null   object 
+###### y   label             2838 non-null   int64 
 
 
 
