@@ -64,8 +64,8 @@ Data columns (total 7 columns):
 
 ### Target Variable
 
-###### X   text              2838 non-null   object 
-###### y   label             2838 non-null   int64 
+#### X   text              2838 non-null   object 
+#### y   label             2838 non-null   int64 
 
 
 
