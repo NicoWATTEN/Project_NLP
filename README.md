@@ -11,14 +11,14 @@ The primary objective is to demonstrate the ability to predict and understand st
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Pre-processing](#pre-processing)
-- [Choosing the Best Model](#choosing-the-best-model)
-- [Model Training](#model-training)
+- [Pre-processing](##_Part_1)
+- [Choosing the Best Model](##_Part_2)
+- [Model Training](##_Part_3)
 - [Evaluation](#evaluation)
 - [Prediction](#prediction)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+- [General_Conclusion](#General_Conclusion)
 
 # About
 
@@ -59,12 +59,12 @@ Data columns (total 7 columns):
 
 # Getting Started
 
-## Part 1: Data Preprocessing and Feature Engineering
+##_Part_1: Data Preprocessing and Feature Engineering
 
 In the initial phase, the dataset underwent preprocessing to clean and tokenize the text. This step aimed to enhance the quality of the data and prepare it for further analysis. Techniques such as removing stop words, handling special characters, and stemming/lemmatization were employed to ensure the text data's uniformity.
 
 
-## Part 2: Model Comparison and Selection
+##_Part_2: Model Comparison and Selection
 
 The second part involved a comprehensive comparison of machine learning models. Logistic Regression, Naive Bayes, and Random Forest were applied to both BOW and TF-IDF representations. The focus was on assessing training and testing scores to identify the most effective model.
 
@@ -74,12 +74,12 @@ Feature engineering played a crucial role in representing the textual data effec
 
   **- Term Frequency-Inverse Document Frequency (TF-IDF):** TF-IDF considers not only the occurrence of words but also their importance in the entire dataset. It assigns weights based on how often a word appears in a specific document compared to its frequency across all documents.
 
-## Part 3: Deep Learning
+##_Part_3: Deep Learning
 
 To further validate the models, predictions were made on new textual data. The provided code snippet demonstrates the process of tokenizing and processing new text sequences, followed by making predictions using different models, including LSTM, CNN, GRU, and NN. The binary predictions are then displayed for each model.
 
 
-# General Conclusion : 
+# General_Conclusion : 
 **This stress detection project has been a source of great motivation for me, given the ubiquity of stress in everyone's lives. Detecting stress, especially for a machine, poses unique challenges. The goal of developing sentiment analysis, particularly in the context of stress, has been both intriguing and rewarding. I appreciate this project for showcasing the versatility of machine learning across various sectors, even those seemingly disparate, like interpreting the sentiment of stress—an emotion inherently beyond the realm of machine experience. It provides a compelling glimpse into the complexities and opportunities that arise when artificial intelligence delves into nuanced and subjective aspects of human experience. This endeavor underscores the growing importance of crafting sensitive models capable of understanding intricate emotions to address the diverse needs of society.**
 
 Nicolas WATTENHOFFER
