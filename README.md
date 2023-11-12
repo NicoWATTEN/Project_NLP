@@ -1,5 +1,11 @@
 # Project_NLP Nicolas W
 Project of NLP with 3 big steps
+
+
+![STRESS](Stress.png)
+
+
+
 # StressAnalysisNLP
 
 The focus of this project is to employ Natural Language Processing (NLP) techniques to recognize stress signals in text messages. 
