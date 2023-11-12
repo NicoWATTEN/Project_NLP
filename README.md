@@ -46,19 +46,19 @@ Data columns (total 7 columns):
  ####   Column            Non-Null   Dtype  
 ---  ------            ----------- -----  
 
-###### 0   subreddit         2838 object 
- 
-###### 1   post_id           2838 object 
- 
-###### 2   sentence_range    2838 object 
- 
-###### 3   text              2838 object 
- 
-###### 4   label             2838 int64  
+ **0   subreddit         2838 object** 
 
-###### 5   confidence        2838 float64
+ **1   post_id           2838 object** 
  
-###### 6   social_timestamp  2838 int64  
+ **2   sentence_range    2838 object** 
+ 
+ **3   text              2838 object** 
+ 
+ **4   label             2838 int64**  
+
+ **5   confidence        2838 float64**
+ 
+ **6   social_timestamp  2838 int64**  
  
 
 
