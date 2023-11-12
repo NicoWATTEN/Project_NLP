@@ -43,13 +43,21 @@ RangeIndex: 2838 entries, 0 to 2837
 Data columns (total 7 columns):
  #   Column            Non-Null Count  Dtype  
 ---  ------            --------------  -----  
+
  0   subreddit         2838 non-null   object 
+ 
  1   post_id           2838 non-null   object 
+ 
  2   sentence_range    2838 non-null   object 
+ 
  3   text              2838 non-null   object 
+ 
  4   label             2838 non-null   int64  
+
  5   confidence        2838 non-null   float64
+ 
  6   social_timestamp  2838 non-null   int64  
+ 
 
 
 ### Target Variable
