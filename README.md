@@ -11,9 +11,9 @@ The primary objective is to demonstrate the ability to predict and understand st
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Exploration](##_Part_1)
-- [Choosing the Best Model](##_Part_2)
-- [Deeo_Learning](##_Part_3)
+- [Exploration](##Part_1)
+- [Choosing the Best Model](##Part_2)
+- [Deeo_Learning](##Part_3)
 - [General_Conclusion](#General_Conclusion)
 
 # About
@@ -55,12 +55,12 @@ Data columns (total 7 columns):
 
 # Getting Started
 
-##_Part_1: Data Preprocessing and Feature Engineering
+## Part_1: Data Preprocessing and Feature Engineering
 
 In the initial phase, the dataset underwent preprocessing to clean and tokenize the text. This step aimed to enhance the quality of the data and prepare it for further analysis. Techniques such as removing stop words, handling special characters, and stemming/lemmatization were employed to ensure the text data's uniformity.
 
 
-##_Part_2: Model Comparison and Selection
+## Part_2: Model Comparison and Selection
 
 The second part involved a comprehensive comparison of machine learning models. Logistic Regression, Naive Bayes, and Random Forest were applied to both BOW and TF-IDF representations. The focus was on assessing training and testing scores to identify the most effective model.
 
@@ -70,7 +70,7 @@ Feature engineering played a crucial role in representing the textual data effec
 
   **- Term Frequency-Inverse Document Frequency (TF-IDF):** TF-IDF considers not only the occurrence of words but also their importance in the entire dataset. It assigns weights based on how often a word appears in a specific document compared to its frequency across all documents.
 
-##_Part_3: Deep Learning
+## Part_3: Deep Learning
 
 To further validate the models, predictions were made on new textual data. The provided code snippet demonstrates the process of tokenizing and processing new text sequences, followed by making predictions using different models, including LSTM, CNN, GRU, and NN. The binary predictions are then displayed for each model.
 
