@@ -14,10 +14,6 @@ The primary objective is to demonstrate the ability to predict and understand st
 - [Exploration](##_Part_1)
 - [Choosing the Best Model](##_Part_2)
 - [Deeo_Learning](##_Part_3)
-- [Evaluation](#evaluation)
-- [Prediction](#prediction)
-- [Results](#results)
-- [Contributing](#contributing)
 - [General_Conclusion](#General_Conclusion)
 
 # About
