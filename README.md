@@ -75,7 +75,7 @@ Feature engineering played a crucial role in representing the textual data effec
 To further validate the models, predictions were made on new textual data. The provided code snippet demonstrates the process of tokenizing and processing new text sequences, followed by making predictions using different models, including LSTM, CNN, GRU, and NN. The binary predictions are then displayed for each model.
 
 
-# General_Conclusion : 
+# General_Conclusion
 **This stress detection project has been a source of great motivation for me, given the ubiquity of stress in everyone's lives. Detecting stress, especially for a machine, poses unique challenges. The goal of developing sentiment analysis, particularly in the context of stress, has been both intriguing and rewarding. I appreciate this project for showcasing the versatility of machine learning across various sectors, even those seemingly disparate, like interpreting the sentiment of stress—an emotion inherently beyond the realm of machine experience. It provides a compelling glimpse into the complexities and opportunities that arise when artificial intelligence delves into nuanced and subjective aspects of human experience. This endeavor underscores the growing importance of crafting sensitive models capable of understanding intricate emotions to address the diverse needs of society.**
 
 Nicolas WATTENHOFFER
