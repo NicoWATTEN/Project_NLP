@@ -11,9 +11,9 @@ The primary objective is to demonstrate the ability to predict and understand st
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Exploration](##Part_1)
-- [Choosing the Best Model](##Part_2)
-- [Deeo_Learning](##Part_3)
+- [Part_1: Data Preprocessing and Feature Engineering](##Part_1)
+- [Part_2: Model Comparison and Selection](##Part_2)
+- [Part_3: Deep Learning](##Part_3)
 - [General_Conclusion](#General_Conclusion)
 
 # About
